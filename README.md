@@ -1,8 +1,8 @@
 # [We Love Movies](https://welovemovies-frontend-15db.onrender.com/).
-## [WeLoveMovies Backend](https://welovemovies-wqfr.onrender.com/movies) 
-## (See [repo](https://github.com/nathantshen/we-love-movie-front-end) for more info) 
+### [WeLoveMovies Backend](https://welovemovies-wqfr.onrender.com/movies) 
+### (See [repo](https://github.com/nathantshen/we-love-movie-front-end) for more info on the frontend) 
 
-> This Project was creaed with a database and RESTful API with CRUD operations allowing users to access data about the latest movies, theaters, and reviews.
+> This is the backend for the project, which was created with a database and RESTful API with CRUD operations allowing users to access data about the latest movies, theaters, and reviews.
 
 ### Available Routes
 - /movies

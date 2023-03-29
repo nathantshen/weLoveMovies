@@ -1,5 +1,6 @@
 # [We Love Movies](https://welovemovies-frontend-15db.onrender.com/).
-## WeLoveMovies Backend [View Api](https://welovemovies-wqfr.onrender.com/movies)
+## [WeLoveMovies Backend](https://welovemovies-wqfr.onrender.com/movies) 
+## (See [repo](https://github.com/nathantshen/we-love-movie-front-end) for more info) 
 
 > This Project was creaed with a database and RESTful API with CRUD operations allowing users to access data about the latest movies, theaters, and reviews.
 

@@ -26,7 +26,7 @@ module.exports = {
 
   production: {
     client: "postgresql",
-    connection: process.env.DATABASE_URL,
+    connection: 'postgres://ycumbxcr:BPgGLZEbnEQ382q7EF1rsTzFFLhn91Bi@floppy.db.elephantsql.com/ycumbxcr',
     pool: { min: 0, max: 5 },
     migrations: {
       directory: path.join(__dirname, "src", "db", "migrations"),
